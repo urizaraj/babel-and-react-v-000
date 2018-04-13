@@ -55,7 +55,7 @@ var profile = (
 )
 ```
 
-...when the above is run through Babel, we receive:
+...when the above is run through Babel, we receive
 
 ```JavaScript
 var profile = (
